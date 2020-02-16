@@ -21,7 +21,7 @@
     <jsp:body>
         <!-- Content -->
         <div class="card card-login mx-auto mt-5">
-            <div class="card-header">Inicio de Sesión</div>
+            <div class="card-header"><h4 align="center">Inicio de Sesión</h4></div>
             <div class="card-body">
                 <form name="Loginform" id="Loginform" method="post" action="Login" autocomplete="off" data-check="true" data-confirm="true">
                     <div class="form-group">
