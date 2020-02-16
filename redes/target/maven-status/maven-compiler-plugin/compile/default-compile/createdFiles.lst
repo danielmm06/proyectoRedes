@@ -1,0 +1,12 @@
+persistence\PersonaDAO.class
+entity\Tarjeta.class
+presentation\capturarDatos.class
+conexion\App.class
+presentation\Prueba.class
+entity\Rfid.class
+entity\Lector.class
+entity\Persona.class
+persistence\TarjetaDAO.class
+presentation\Login.class
+conexion\DataBase.class
+persistence\RfidDAO.class
